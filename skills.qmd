@@ -1,8 +1,4 @@
----
-title: "Skills & Certifications"
----
 
-# Skills & Certifications
 
 ## Business & Leadership
 - Project planning (WBS, timelines), stakeholder communication, budgeting

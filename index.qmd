@@ -3,19 +3,22 @@ title: "Home / About"
 image: images/portrait.jpg
 ---
 
-![Portrait of Sudhanshu Mehta](images/portrait.jpg){width=220px}
-
 # Hello, I’m Sudhanshu
 
-I’m an MBA candidate at University Canada West with a background in photography, entrepreneurship, and digital projects across India, Malaysia, the Philippines, and Canada. My work has earned **12 global nominations** and multiple exhibitions.
+I’m an MBA candidate at University Canada West with a background in **photography, entrepreneurship, and digital transformation**. I’ve led creative businesses across India, Malaysia, and the Philippines, earned **12 global nominations** for my work, and delivered international exhibitions.
 
-This website is my multi‑page MBA portfolio. It includes my resume, selected projects, skills, leadership activities, and a reflection on how I used LLMs to plan and write content.
+This site showcases my experience, projects, skills, and reflections as I grow into roles that blend **strategy, technology, and design**.
 
 ::: {.callout-note}
 **At a glance**
 - Location: Vancouver, Canada  
 - Languages: English, Hindi  
-- Available for: Part‑time / Contract roles
+- Available for: Part-time / Contract roles
 :::
 
-[Download Resume (PDF)](downloads/Sudhanshu_Mehta_Resume.pdf){.btn}
+## Highlights
+- Directed large-scale campaigns (Malabar Gold Jewelers) and filmed a Premier League team documentary aired on Star Sports.
+- Solo exhibition at Altro Mondo Gallery, Manila; group exhibition at the Indian Embassy (Philippines).
+- Teaching & speaking: NICC (Head of Photography), Canon India spokesperson; talks at Infosys and other Fortune 500 companies.
+
+[Download Resume (PDF)](downloads/Sudhanshu_Mehta_Resume.pdf){.btn .btn-primary .btn-lg}

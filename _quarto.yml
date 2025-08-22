@@ -5,7 +5,7 @@ website:
   title: "Sudhanshu Mehta — MBA Portfolio"
   navbar:
     background: light
-    left:
+    right:
       - text: Home
         href: index.qmd
       - text: Resume
@@ -23,14 +23,21 @@ website:
       - text: Appendix
         href: appendix.qmd
   page-footer:
-    left: "© 2026 Sudhanshu Mehta"
+    left: "© {{< meta year >}} Sudhanshu Mehta"
     right: "Built with Quarto"
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: cosmo
     toc: true
     toc-depth: 3
+    code-fold: false
+    df-print: paged
     css: styles.css
+
+metadata-files:
+  - _meta.yml
+
+format:
+  html:
+    title-block-style: none

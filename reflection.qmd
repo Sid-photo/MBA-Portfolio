@@ -1,8 +1,4 @@
----
-title: "Reflection on Expanding to a Multi‑Page Site"
----
 
-# Reflection (≈ 400 words)
 
 Expanding my single‑page site into a multi‑page portfolio improved both clarity and usability. The one‑page version worked as a snapshot, but it forced everything into one scroll. Separating content into Home, Resume, Projects, Skills, Leadership, Contact, Reflection, and Appendix let me present a clean story: who I am, what I’ve done, and how I work.
 

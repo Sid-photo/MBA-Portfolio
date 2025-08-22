@@ -2,7 +2,7 @@
 title: "Appendix — LLM Site Map & Drafts"
 ---
 
-# Saved LLM Site Map
+## Saved LLM Site Map
 - Home / About
 - Resume or CV
 - Projects / Case Studies
@@ -12,40 +12,36 @@ title: "Appendix — LLM Site Map & Drafts"
 - Reflection (assignment requirement)
 - Appendix (this page to store drafts)
 
-# Draft Snippets (LLM Generated)
-## Home / About (Draft)
+## Draft Snippets (LLM Generated)
+### Home / About (Draft)
 MBA candidate with photography, entrepreneurship, and digital projects across Asia. Focus on creativity and AI‑enabled business transformation.
 
 **Revision Notes:** Simplified the tone; added concrete highlights (global nominations, exhibitions).
 
-## Resume / CV (Draft)
+### Resume / CV (Draft)
 Sections: Summary, Experience, Education, Skills, Awards.
 
 **Revision Notes:** Matched roles and dates with my actual resume; removed vague adjectives.
 
-## Projects / Case Studies (Draft)
+### Projects / Case Studies (Draft)
 Gallery of tiles linking to case details.
 
 **Revision Notes:** Replaced with a single, direct link to my maintained portfolio (*Commercial Work*) for consistency and authenticity.
 
-## Skills & Certifications (Draft)
+### Skills & Certifications (Draft)
 Business/Leadership, Technical, Software, Certifications.
 
 **Revision Notes:** Grouped skills for scannability and aligned tools with my real workflow.
 
-## Contact (Draft)
+### Contact (Draft)
 LinkedIn, email, website.
 
 **Revision Notes:** Added location and a clearer call to action.
 
-# APA‑Style Citations (Stub)
-*(Include APA references here only if you cite published work or statistics on any page.)*
-
-
-# LLM Disclosure
+## LLM Disclosure
 Sections labeled **“LLM Site Map”** and **“Draft Snippets (LLM Generated)”** in this appendix were produced with support from a large language model (OpenAI). I revised the drafts for accuracy, clarity, and tone. All final page content was verified against my resume and personal records.
 
-# References (APA Style)
+## References (APA Style)
 - OpenAI. (2025). *ChatGPT* [Large language model]. https://openai.com/chatgpt  
 - Quarto. (2025). *Quarto documentation*. https://quarto.org  
 - American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).  

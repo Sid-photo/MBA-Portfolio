@@ -1,18 +1,20 @@
-# MBA Portfolio — Assignment 3 (Quarto)
+# MBA Portfolio Website (Quarto)
 
-## Preview locally
+This repository contains my multi‑page portfolio built with **Quarto**.
+
+## Local Preview
+```bash
 quarto preview
+```
 
 ## Publish to GitHub Pages
-git init
-git add .
-git commit -m "Assignment 3: MBA Portfolio"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo>.git
-git push -u origin main
+1. Commit and push this project to a GitHub repository.
+2. Run:
+```bash
 quarto publish gh-pages
+```
+Quarto will create a `gh-pages` branch and deploy the site.
 
-## Update
-- Replace `images/portrait.jpg` with your portrait (same filename).
-- Replace `downloads/Sudhanshu_Mehta_Resume.pdf` with your current resume.
-- Edit page content as your portfolio evolves.
+## Notes
+- Update links in `contact.qmd` and add your portrait to `images/portrait.jpg`.
+- Place your PDF resume in `downloads/Sudhanshu_Mehta_Resume.pdf`.

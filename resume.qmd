@@ -2,8 +2,6 @@
 title: "Resume / CV"
 ---
 
-# Resume
-
 Download my full resume: [📄 Resume (PDF)](downloads/Sudhanshu_Mehta_Resume.pdf){.btn}
 
 ## Highlights
