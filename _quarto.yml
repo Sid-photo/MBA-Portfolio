@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Sudhanshu Mehta — MBA Portfolio"
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills
+        href: skills.qmd
+      - text: Leadership
+        href: leadership.qmd
+      - text: Contact
+        href: contact.qmd
+      - text: Reflection
+        href: reflection.qmd
+      - text: Appendix
+        href: appendix.qmd
+  page-footer:
+    left: "© 2026 Sudhanshu Mehta"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    css: styles.css

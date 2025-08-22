@@ -1,0 +1,10 @@
+/* Accessible defaults */
+body { line-height: 1.6; font-size: 1.05rem; }
+h1,h2,h3 { scroll-margin-top: 90px; }
+img { max-width: 100%; height: auto; border-radius: 10px; }
+.navbar { font-size: 1rem; }
+.btn { display:inline-block; padding:.6rem 1rem; border-radius:.5rem; background:#0d6efd; color:#fff; }
+.btn:hover { opacity:.9; text-decoration:none; }
+a { text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; outline: none; }
+.figure-caption { font-size: .9rem; color: #555; }

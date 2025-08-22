@@ -1,0 +1,15 @@
+---
+title: "Reflection on Expanding to a Multi‑Page Site"
+---
+
+# Reflection (≈ 400 words)
+
+Expanding my single‑page site into a multi‑page portfolio improved both clarity and usability. The one‑page version worked as a snapshot, but it forced everything into one scroll. Separating content into Home, Resume, Projects, Skills, Leadership, Contact, Reflection, and Appendix let me present a clean story: who I am, what I’ve done, and how I work.
+
+I used an LLM to brainstorm the sitemap and first drafts. This helped me avoid blank‑page syndrome and gave me ideas for small details such as adding a “download resume” button and writing short project summaries. As I added pages, I kept the model in a support role. I rewrote the text in my own words, trimmed any generic phrases, and verified every detail (dates, roles, outcomes) against my resume and personal records. This kept the content accurate and authentic.
+
+What worked better as the site grew was the separation of concerns. The Resume page stays focused on core facts, while Projects links to my commercial portfolio, where images and case materials live. The Leadership page captures teaching and speaking highlights that would clutter the Resume. Navigation is simpler, too—visitors can jump straight to what they need. I also made small accessibility improvements: good color contrast, readable font sizes, descriptive link text, and responsive images.
+
+To ensure accuracy, I removed any claims I couldn’t source and limited references to work I can demonstrate. For media, I plan to include only my own images or items I have rights to use. Finally, I saved the LLM site map and drafts in the Appendix with notes on how and why I revised them. This makes the writing process transparent and shows how AI assisted without taking over.
+
+Overall, this assignment taught me to think like a product owner: define the audience, prioritize the most helpful content, and ship a structure I can maintain. The result is a clear and credible portfolio that reflects both my craft and my direction.
