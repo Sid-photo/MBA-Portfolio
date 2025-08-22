@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "",
+    "text": "Home / About\nResume or CV\nProjects / Case Studies\nSkills & Certifications\nLeadership & Community (optional page included)\nContact\nReflection (assignment requirement)\nAppendix (this page to store drafts)"
+  },
+  {
+    "objectID": "appendix.html#home-about-draft",
+    "href": "appendix.html#home-about-draft",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "Home / About (Draft)",
+    "text": "Home / About (Draft)\nMBA candidate with photography, entrepreneurship, and digital projects across Asia. Focus on creativity and AI‑enabled business transformation.\nRevision Notes: Simplified the tone; added concrete highlights (global nominations, exhibitions)."
+  },
+  {
+    "objectID": "appendix.html#resume-cv-draft",
+    "href": "appendix.html#resume-cv-draft",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "Resume / CV (Draft)",
+    "text": "Resume / CV (Draft)\nSections: Summary, Experience, Education, Skills, Awards.\nRevision Notes: Matched roles and dates with my actual resume; removed vague adjectives."
+  },
+  {
+    "objectID": "appendix.html#projects-case-studies-draft",
+    "href": "appendix.html#projects-case-studies-draft",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "Projects / Case Studies (Draft)",
+    "text": "Projects / Case Studies (Draft)\nGallery of tiles linking to case details.\nRevision Notes: Replaced with a single, direct link to my maintained portfolio (Commercial Work) for consistency and authenticity."
+  },
+  {
+    "objectID": "appendix.html#skills-certifications-draft",
+    "href": "appendix.html#skills-certifications-draft",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "Skills & Certifications (Draft)",
+    "text": "Skills & Certifications (Draft)\nBusiness/Leadership, Technical, Software, Certifications.\nRevision Notes: Grouped skills for scannability and aligned tools with my real workflow."
+  },
+  {
+    "objectID": "appendix.html#contact-draft",
+    "href": "appendix.html#contact-draft",
+    "title": "Appendix — LLM Site Map & Drafts",
+    "section": "Contact (Draft)",
+    "text": "Contact (Draft)\nLinkedIn, email, website.\nRevision Notes: Added location and a clearer call to action."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home / About",
+    "section": "",
+    "text": "Portrait of Sudhanshu Mehta\n\n\n\nHello, I’m Sudhanshu\nI’m an MBA candidate at University Canada West with a background in photography, entrepreneurship, and digital projects across India, Malaysia, the Philippines, and Canada. My work has earned 12 global nominations and multiple exhibitions.\nThis website is my multi‑page MBA portfolio. It includes my resume, selected projects, skills, leadership activities, and a reflection on how I used LLMs to plan and write content.\n\n\n\n\n\n\nNote\n\n\n\nAt a glance - Location: Vancouver, Canada\n- Languages: English, Hindi\n- Available for: Part‑time / Contract roles\n\n\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "SUBMISSION_README.html",
+    "href": "SUBMISSION_README.html",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "Hosted website link (GitHub Pages) — multi‑page portfolio built with Quarto.\n\nURL: https://.github.io//\n\nSingle‑page portfolio link (from Assignment 1) — paste your URL:\n\nURL: https://.github.io//\n\nReflection — already included as reflection.qmd. Export to PDF if required by your LMS.\nAppendix (LLM output, annotated) — already included as appendix.qmd with LLM disclosure and revision notes.\n\n\n\n\n# Inside the project folder\nquarto preview  # optional local check\n\ngit init\ngit add .\ngit commit -m \"Assignment 3: MBA portfolio\"\ngit branch -M main\ngit remote add origin https://github.com/&lt;your-username&gt;/&lt;repo-name&gt;.git\ngit push -u origin main\n\n# Publish to GitHub Pages\nquarto publish gh-pages\nGitHub Pages URL will look like: https://&lt;your-username&gt;.github.io/&lt;repo-name&gt;/\n\n\n\n\nAll navbar links work\nResume downloads correctly\nLinks have descriptive text (e.g., “Commercial Work”)\nImages have alternate text\nGood contrast & readable font sizes\n\n\n\n\n\nindex.qmd — Home/About (includes portrait + resume button)\nresume.qmd — Resume page (download link)\nprojects.qmd — Links to your commercial work\nskills.qmd — Skills & certifications\nleadership.qmd — Optional page included\ncontact.qmd — Email + LinkedIn\nreflection.qmd — 300–500 words on LLM use\nappendix.qmd — LLM drafts + revisions + APA references\n\n\n\n\n\nCite all sources you use and clearly identify LLM‑generated content (done in Appendix).\nResources: Quarto Docs, Spreed.chat, OpenAI, APA Style Guide."
+  },
+  {
+    "objectID": "SUBMISSION_README.html#what-to-submit",
+    "href": "SUBMISSION_README.html#what-to-submit",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "Hosted website link (GitHub Pages) — multi‑page portfolio built with Quarto.\n\nURL: https://.github.io//\n\nSingle‑page portfolio link (from Assignment 1) — paste your URL:\n\nURL: https://.github.io//\n\nReflection — already included as reflection.qmd. Export to PDF if required by your LMS.\nAppendix (LLM output, annotated) — already included as appendix.qmd with LLM disclosure and revision notes."
+  },
+  {
+    "objectID": "SUBMISSION_README.html#how-to-host-on-github-pages-quarto",
+    "href": "SUBMISSION_README.html#how-to-host-on-github-pages-quarto",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "# Inside the project folder\nquarto preview  # optional local check\n\ngit init\ngit add .\ngit commit -m \"Assignment 3: MBA portfolio\"\ngit branch -M main\ngit remote add origin https://github.com/&lt;your-username&gt;/&lt;repo-name&gt;.git\ngit push -u origin main\n\n# Publish to GitHub Pages\nquarto publish gh-pages\nGitHub Pages URL will look like: https://&lt;your-username&gt;.github.io/&lt;repo-name&gt;/"
+  },
+  {
+    "objectID": "SUBMISSION_README.html#checklist-accessibility-usability",
+    "href": "SUBMISSION_README.html#checklist-accessibility-usability",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "All navbar links work\nResume downloads correctly\nLinks have descriptive text (e.g., “Commercial Work”)\nImages have alternate text\nGood contrast & readable font sizes"
+  },
+  {
+    "objectID": "SUBMISSION_README.html#where-to-edit",
+    "href": "SUBMISSION_README.html#where-to-edit",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "index.qmd — Home/About (includes portrait + resume button)\nresume.qmd — Resume page (download link)\nprojects.qmd — Links to your commercial work\nskills.qmd — Skills & certifications\nleadership.qmd — Optional page included\ncontact.qmd — Email + LinkedIn\nreflection.qmd — 300–500 words on LLM use\nappendix.qmd — LLM drafts + revisions + APA references"
+  },
+  {
+    "objectID": "SUBMISSION_README.html#notes",
+    "href": "SUBMISSION_README.html#notes",
+    "title": "Submission Package — Assignment 3",
+    "section": "",
+    "text": "Cite all sources you use and clearly identify LLM‑generated content (done in Appendix).\nResources: Quarto Docs, Spreed.chat, OpenAI, APA Style Guide."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on Expanding to a Multi‑Page Site",
+    "section": "",
+    "text": "Reflection (≈ 400 words)\nExpanding my single‑page site into a multi‑page portfolio improved both clarity and usability. The one‑page version worked as a snapshot, but it forced everything into one scroll. Separating content into Home, Resume, Projects, Skills, Leadership, Contact, Reflection, and Appendix let me present a clean story: who I am, what I’ve done, and how I work.\nI used an LLM to brainstorm the sitemap and first drafts. This helped me avoid blank‑page syndrome and gave me ideas for small details such as adding a “download resume” button and writing short project summaries. As I added pages, I kept the model in a support role. I rewrote the text in my own words, trimmed any generic phrases, and verified every detail (dates, roles, outcomes) against my resume and personal records. This kept the content accurate and authentic.\nWhat worked better as the site grew was the separation of concerns. The Resume page stays focused on core facts, while Projects links to my commercial portfolio, where images and case materials live. The Leadership page captures teaching and speaking highlights that would clutter the Resume. Navigation is simpler, too—visitors can jump straight to what they need. I also made small accessibility improvements: good color contrast, readable font sizes, descriptive link text, and responsive images.\nTo ensure accuracy, I removed any claims I couldn’t source and limited references to work I can demonstrate. For media, I plan to include only my own images or items I have rights to use. Finally, I saved the LLM site map and drafts in the Appendix with notes on how and why I revised them. This makes the writing process transparent and shows how AI assisted without taking over.\nOverall, this assignment taught me to think like a product owner: define the audience, prioritize the most helpful content, and ship a structure I can maintain. The result is a clear and credible portfolio that reflects both my craft and my direction."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n\n📍 Vancouver, Canada\n\n📧 asudhanshumehta@gmail.com\n\n🔗 LinkedIn: linkedin.com/in/sudhanshu-mehta-830849284\n\n🌐 Website: sudhanshu-mehta.com"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Download my full resume: 📄 Resume (PDF)\n\n\n\nEducation: MBA (ongoing), Master’s in Photography (2014), BCA (2005)\nExperience: 10+ years managing creative teams and client projects across Asia\nSkills: Project management, operations, creative direction, client relations\nAwards: 12 global nominations; solo/group exhibitions"
+  },
+  {
+    "objectID": "resume.html#highlights",
+    "href": "resume.html#highlights",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Education: MBA (ongoing), Master’s in Photography (2014), BCA (2005)\nExperience: 10+ years managing creative teams and client projects across Asia\nSkills: Project management, operations, creative direction, client relations\nAwards: 12 global nominations; solo/group exhibitions"
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Community",
+    "section": "",
+    "text": "Head of Photography, NICC (2016): mentored master’s students.\nCanon India spokesperson: talks at Infosys and other Fortune 500 companies.\n\n\n\n\n\nAuthenticity, clarity, and empathy in leadership.\nLearning‑by‑doing and constructive feedback."
+  },
+  {
+    "objectID": "leadership.html#teaching-speaking",
+    "href": "leadership.html#teaching-speaking",
+    "title": "Leadership & Community",
+    "section": "",
+    "text": "Head of Photography, NICC (2016): mentored master’s students.\nCanon India spokesperson: talks at Infosys and other Fortune 500 companies."
+  },
+  {
+    "objectID": "leadership.html#values",
+    "href": "leadership.html#values",
+    "title": "Leadership & Community",
+    "section": "",
+    "text": "Authenticity, clarity, and empathy in leadership.\nLearning‑by‑doing and constructive feedback."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects / Case Studies",
+    "section": "",
+    "text": "Projects\nFor a broad view of my commercial work, visit:\n➡︎ Commercial Work — sudhanshu-mehta.com/commercialwork\n(I maintain detailed visuals and write‑ups on my own portfolio site, which this page links to for consistency and authenticity.)"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Project planning (WBS, timelines), stakeholder communication, budgeting\nOperations and team coordination across multi‑country projects\n\n\n\n\n\nCamera systems: Canon DSLR, Phase One Medium Format, Cambo Large Format\nLighting, color management, studio & location workflows\n\n\n\n\n\nCapture One, Adobe Photoshop, Lightroom\n\n\n\n\n\nAI Fundamentals (IBM) — overview of AI in business\nProject management workshops (CAPM prep)"
+  },
+  {
+    "objectID": "skills.html#business-leadership",
+    "href": "skills.html#business-leadership",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Project planning (WBS, timelines), stakeholder communication, budgeting\nOperations and team coordination across multi‑country projects"
+  },
+  {
+    "objectID": "skills.html#technical",
+    "href": "skills.html#technical",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Camera systems: Canon DSLR, Phase One Medium Format, Cambo Large Format\nLighting, color management, studio & location workflows"
+  },
+  {
+    "objectID": "skills.html#software",
+    "href": "skills.html#software",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Capture One, Adobe Photoshop, Lightroom"
+  },
+  {
+    "objectID": "skills.html#certifications-training",
+    "href": "skills.html#certifications-training",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "AI Fundamentals (IBM) — overview of AI in business\nProject management workshops (CAPM prep)"
+  }
+]
