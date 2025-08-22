@@ -28,16 +28,14 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     toc: true
     toc-depth: 3
-    code-fold: false
-    df-print: paged
     css: styles.css
+    title-block-style: none   # hides the auto title block globally
 
 metadata-files:
   - _meta.yml
 
-format:
-  html:
-    title-block-style: none
