@@ -1,6 +1,7 @@
 ---
 title: "Home / About"
 image: images/portrait.jpg
+![Portrait of Sudhanshu Mehta](images/portrait.jpg){width=220px}
 ---
 
 # Hello, I’m Sudhanshu
